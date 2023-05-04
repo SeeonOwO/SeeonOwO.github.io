@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26469937-9507-46a4-b4db-b9f8042fc2d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/avatar-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avatar-2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -39,6 +41,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lsion\PycharmProjects\SeeonOwO.github.io\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SeeonOwO.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +66,7 @@
       <updated>1670957704470</updated>
       <workItem from="1670957708049" duration="3720000" />
       <workItem from="1671060104153" duration="9531000" />
-      <workItem from="1683230121616" duration="2655000" />
+      <workItem from="1683230121616" duration="3376000" />
     </task>
     <servers />
   </component>
